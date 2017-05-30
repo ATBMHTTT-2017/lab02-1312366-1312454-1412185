@@ -35,6 +35,8 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 Link ảnh GIF demo ứng dụng:
 
+[security_1_1412185](https://media.giphy.com/media/xUPGcxeo1chopcuKJO/giphy.gif).
+
 ![Video Walkthrough](demo.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
