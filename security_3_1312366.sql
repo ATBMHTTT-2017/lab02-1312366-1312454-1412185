@@ -10,7 +10,6 @@ as
   as
     DA table;
   begin
-    dbms_session.set_context('NhanVien_context','DuAnQL','DA00');
     select MADA
     into DA
     from BT1N28.DUAN_366_454_185
